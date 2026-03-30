@@ -9,5 +9,6 @@ Features
 - Handles division by zero
 Technologies Used
 - Python
+  
 Description
 This project demonstrates basic programming logic and arithmetic operations using Python.
